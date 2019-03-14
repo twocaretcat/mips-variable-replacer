@@ -1,12 +1,18 @@
-# mips-variable-replacer
+# MIPS Variable Replacer [Python]
+![](https://img.shields.io/badge/type-Python-blue.svg "Project type")
+![](https://img.shields.io/github/repo-size/jerboa88/mips-variable-replacer.svg "Repository size")
+[![](https://img.shields.io/github/license/jerboa88/mips-variable-replacer.svg "Project license")](LICENSE.md)
+
+
 Use easy to remember variable names in MIPS assembly and map them to registers before assembling to simplify development
 
 **Important: This script is intended to simplify MIPS coding and is not a substitute for properly learning the language yourself**
 
-## Summary
-This python script lets you use custom register names in MIPS assembly. By running the script before you assemble, custom names are mapped to real registers you specify.
 
-Features:
+## Summary
+This python script is a sort of precompiler for MIPS that lets you use custom register names in MIPS assembly. By running the script before you assemble, custom names are mapped to real registers you specify. I plan to add more features in the future.
+
+**Features:**
 - Warns when command line inputs are incorrect
 - Warns if you have defined variables you never use
 - Warns if you try to replace with invalid register names
@@ -14,7 +20,7 @@ Features:
 - Warns if you have variables in your code that you have not added definitions more (very useful)
 - Tells you how many variables were replaced
 
-Todo:
+**Todo:**
 - Add support for custom output filenames
 - Add option for keeping definitions in output file
 - Optimize for very large definition lists
