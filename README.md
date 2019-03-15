@@ -1,7 +1,7 @@
 # MIPS Variable Replacer [Python]
 ![](https://img.shields.io/badge/type-Python-blue.svg "Project type")
 ![](https://img.shields.io/github/repo-size/jerboa88/mips-variable-replacer.svg "Repository size")
-[![](https://img.shields.io/github/license/jerboa88/mips-variable-replacer.svg "Project license")](LICENSE.md)
+[![](https://img.shields.io/github/license/jerboa88/mips-variable-replacer.svg "Project license")](LICENSE)
 
 
 Use easy to remember variable names in MIPS assembly and map them to registers before assembling to simplify development
@@ -63,6 +63,6 @@ This is a personal project but forks and suggestions are welcome.
 
 
 ## Disclaimer
-This project is licensed under the Mozilla Public License 2.0. See [LICENSE.md](LICENSE.md) for details.
+This project is licensed under the Mozilla Public License 2.0. See [LICENSE](LICENSE) for details.
 
 Knowledge of MIPS registers and their functions are still necessary, even with this script. If you are learning MIPS, make sure you are able to program by hand. This script will not help you on assignments. Use at your own risk.
