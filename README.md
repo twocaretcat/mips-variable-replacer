@@ -1,16 +1,29 @@
-# MIPS Variable Replacer [Python]
-![](https://img.shields.io/badge/type-Python-blue.svg "Project type")
-![](https://img.shields.io/github/repo-size/jerboa88/mips-variable-replacer.svg "Repository size")
-[![](https://img.shields.io/github/license/jerboa88/mips-variable-replacer.svg "Project license")](LICENSE)
+<!-- Project Header -->
+<div align="center">
+  <h1 class="projectName">MIPS Variable Replacer</h1>
+
+  <p class="projectBadges">
+    <img src="https://img.shields.io/badge/type-CLI_App-f44336.svg" alt="Project type" title="Project type"/>
+    <img src="https://img.shields.io/github/languages/top/jerboa88/mips-variable-replacer.svg" alt="Language" title="Language"/>
+    <img src="https://img.shields.io/github/repo-size/jerboa88/mips-variable-replacer.svg" alt="Repository size" title="Repository size"/>
+    <a href="LICENSE">
+      <img src="https://img.shields.io/github/license/jerboa88/mips-variable-replacer.svg" alt="Project license" title="Project license"/>
+    </a>
+  </p>
+  
+  <p class="projectDesc">
+    A tool to simplify development in MIPS. Use easy to remember variable names in MIPS and map them to actual registers before assembling
+  </p>
+  
+  <br/>
+</div>
 
 
-Use easy to remember variable names in MIPS assembly and map them to registers before assembling to simplify development
-
-**Important: This script is intended to simplify MIPS coding and is not a substitute for properly learning the language yourself**
+> **Important:** This script is intended to simplify MIPS coding and is not a substitute for properly learning the language yourself
 
 
-## Summary
-This python script is a sort of precompiler for MIPS that lets you use custom register names in MIPS assembly. By running the script before you assemble, custom names are mapped to real registers you specify. I plan to add more features in the future.
+## About
+This python script is a sort of precompiler that lets you use custom register names in MIPS assembly. By running the script before you assemble, custom names are mapped to real registers you specify
 
 **Features:**
 - Warns when command line inputs are incorrect
