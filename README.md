@@ -12,7 +12,7 @@
   </p>
   
   <p class="projectDesc">
-    A tool to simplify development in MIPS assembly. Use easy to remember variable names in MIPS and map them to actual registers before assembling
+    A command-line tool to simplify development in MIPS assembly. Use easy to remember variable names in MIPS and map them to actual registers before assembling
   </p>
   
   <br/>
