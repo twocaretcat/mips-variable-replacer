@@ -12,18 +12,18 @@
   </p>
   
   <p class="projectDesc">
-    A tool to simplify development in MIPS. Use easy to remember variable names in MIPS and map them to actual registers before assembling
+    A tool to simplify development in MIPS assembly. Use easy to remember variable names in MIPS and map them to actual registers before assembling
   </p>
   
   <br/>
 </div>
 
 
-> **Important:** This script is intended to simplify MIPS coding and is not a substitute for properly learning the language yourself
+> **Note:** This script is intended to simplify MIPS coding and is not a substitute for properly learning the language yourself
 
 
 ## About
-This python script is a sort of precompiler that lets you use custom register names in MIPS assembly. By running the script before you assemble, custom names are mapped to real registers you specify
+This Python script is a sort of precompiler that lets you use custom register names in MIPS assembly. By running the script before you assemble, custom names are mapped to real registers you specify
 
 **Features:**
 - Warns when command line inputs are incorrect
