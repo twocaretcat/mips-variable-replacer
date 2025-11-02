@@ -4,10 +4,10 @@
 
   <p class="projectBadges info">
     <img src="https://johng.io/badges/category/App.svg" alt="Project type" title="Project type"/>
-    <img src="https://img.shields.io/github/languages/top/jerboa88/mips-variable-replacer.svg" alt="Language" title="Language"/>
-    <img src="https://img.shields.io/github/repo-size/jerboa88/mips-variable-replacer.svg" alt="Repository size" title="Repository size"/>
+    <img src="https://img.shields.io/github/languages/top/twocaretcat/mips-variable-replacer.svg" alt="Language" title="Language"/>
+    <img src="https://img.shields.io/github/repo-size/twocaretcat/mips-variable-replacer.svg" alt="Repository size" title="Repository size"/>
     <a href="LICENSE">
-      <img src="https://img.shields.io/github/license/jerboa88/mips-variable-replacer.svg" alt="Project license" title="Project license"/>
+      <img src="https://img.shields.io/github/license/twocaretcat/mips-variable-replacer.svg" alt="Project license" title="Project license"/>
     </a>
   </p>
   <p class="projectBadges status">
@@ -19,7 +19,7 @@
   <p class="projectDesc">
     A command-line tool to simplify development in MIPS assembly. Use easy to remember variable names in MIPS and map them to actual registers before assembling
   </p>
-  
+
   <br/>
 </div>
 
